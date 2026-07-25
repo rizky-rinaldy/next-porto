@@ -10,7 +10,6 @@ import {
   Briefcase,
   GraduationCap,
   Award,
-  ExternalLink,
 } from "lucide-react";
 
 export default function CVPage() {

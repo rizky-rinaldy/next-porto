@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ExternalLink, Layers, Code, FolderGit2 } from "lucide-react";
+import { ExternalLink, Code, FolderGit2 } from "lucide-react";
 
 // Data tiruan (dummy data) untuk proyek Anda dengan deskripsi yang disesuaikan
 const projectItems = [
