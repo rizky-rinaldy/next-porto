@@ -19,7 +19,7 @@ const teamMembers = [
     name: "Madhiyah",
     role: "UI/UX & Frontend Engineer",
     bio: "Berfokus pada desain pengalaman pengguna yang intuitif, estetika visual, dan implementasi Tailwind CSS.",
-    image: "/img/madhiyah_profile.png",
+    image: "/img/madhiyah_profile.jpg",
     github: "https://github.com/madhiyah",
     linkedin: "https://www.linkedin.com/in/madhiyah-profile",
     website: "https://example.com",

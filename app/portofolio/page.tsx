@@ -19,7 +19,7 @@ export default function CVPage() {
       <div className="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-6 sm:p-8 shadow-sm flex flex-col sm:flex-row items-center sm:items-start gap-6 mb-8">
         <div className="relative w-24 h-24 sm:w-28 sm:h-28 rounded-2xl overflow-hidden border-2 border-blue-600/20 shadow-inner flex-shrink-0">
           <Image
-            src="/img/profile_image.png"
+            src="/img/rizky-rinaldy_profile.png"
             alt="M. Rizky Rinaldy"
             fill
             className="object-cover"
