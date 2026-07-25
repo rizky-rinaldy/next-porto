@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, FileText, GitBranch, Linkedin, Mail } from "lucide-react";
+import { ArrowRight, Mail } from "lucide-react";
 
 export default function Hero() {
   return (
