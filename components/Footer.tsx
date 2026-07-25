@@ -138,13 +138,13 @@ export default function Footer() {
           {/* Kolom Kontak / Dukungan */}
           <div>
             <h4 className="text-sm font-semibold text-zinc-900 dark:text-white uppercase tracking-wider mb-4">
-              Hubungi Kami
+              Hubungi
             </h4>
             <p className="text-sm text-zinc-600 dark:text-zinc-400 mb-2">
               Punya pertanyaan atau ingin bekerja sama?
             </p>
             <a
-              href="mailto:contact@rnlweb.com"
+              href="mailto:rizkyrinaldy.schwork@gmail.com"
               className="text-sm font-semibold text-blue-600 dark:text-blue-400 hover:underline"
             >
               rizkyrinaldy.schwork@gmail.com
@@ -155,11 +155,6 @@ export default function Footer() {
         {/* Hak Cipta / Copyright */}
         <div className="pt-8 border-t border-zinc-100 dark:border-zinc-800 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-zinc-500 dark:text-zinc-500">
           <p>© {new Date().getFullYear()} RNLDev. Hak Cipta Dilindungi.</p>
-          <p className="flex items-center gap-1">
-            Dibuat dengan{" "}
-            <Heart size={14} className="text-red-500 fill-red-500" />{" "}
-            menggunakan Next.js & Tailwind CSS
-          </p>
         </div>
       </div>
     </footer>

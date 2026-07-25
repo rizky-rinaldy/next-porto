@@ -48,7 +48,7 @@ export default function CVPage() {
 
           <div className="flex flex-wrap justify-center sm:justify-start gap-3">
             <a
-              href="/pdf/CV_AhmadJailani_Logistik.pdf"
+              href="/pdf/CV.pdf"
               download
               className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-white bg-blue-600 hover:bg-blue-700 active:scale-95 rounded-xl shadow-lg shadow-blue-600/25 transition-all"
             >
